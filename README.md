@@ -17,11 +17,13 @@
 
 <!--<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="400" height="400" />-->
 <br>
+
 ### ⚡️ Currently ⚡️
 - I am a student of the Moscow Institute of Physics and Technology;
 - I support Emerson information systems in the top fortune 500;
 - I study at the online school Skillfactory on Data Science;
 <br>
+
 <h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
 
 :collision: Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate;
