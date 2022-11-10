@@ -9,10 +9,10 @@
 
 
 ### ✨ About me in 30 seconds ✨ 
-* 🎓 Moscow Institute of Physics and Technology **2022-2024**:
--- Master's degree: - Artificial Intelligence and Interdisciplinary Research;
-* 🎓 South Ural State University  **2015-2020**:
--- Degree of specialization: - Economic security;
+* 🎓 Moscow Institute of Physics and Technology:
+- Master's degree: - Artificial Intelligence and Interdisciplinary Research;
+* 🎓 South Ural State University:
+- Degree of specialization: - Economic security;
 
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
@@ -25,11 +25,11 @@
 <br>
 * Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate
 * Skills:
-*-Hard skills: 
+* Hard skills: 
   * Data Preprocessing and Data Analysis;
   * Machine Learning;
   * Dashboard Design and Development;
-*- Soft skills:
+* Soft skills:
   * Learning;
   * Communication skills;
   * Team player;
