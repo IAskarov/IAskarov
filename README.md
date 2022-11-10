@@ -21,4 +21,21 @@ I like to explore new things.</i></p>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
 <br>
+- Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate
+  - Skills:
+    - Hard skills:
+          * Data Preprocessing and Data Analysis;
+          * Machine Learning;
+          * Dashboard Design and Development;
+    - Soft skills:
+          * Learning;
+          * Communication skills;
+          * Team player;
+          * Management;
 
+
+
+
+### 🙌🏻 Contact me
+- [Telegram](https://t.me/ilnuraskarov)
+- [Kaggle]()
