@@ -13,3 +13,7 @@
 <!--<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="400" height="400" />-->
 
 <br>
+
+<p><i> I am a Master's student of Artificial Intelligence and Interdisciplinary Research at the Moscow Institute of Physics and Technology. 
+I support Emerson information systems in the top fortune 500. 
+I like to explore new things.</i></p>
