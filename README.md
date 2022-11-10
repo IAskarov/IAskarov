@@ -10,13 +10,10 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Moscow Institute of Physics and Technology **2022-2024**:
-Master's degree: - Artificial Intelligence and Interdisciplinary Research;
+-- Master's degree: - Artificial Intelligence and Interdisciplinary Research;
 * 🎓 South Ural State University  **2015-2020**:
-Degree of specialization: - Economic security;
+-- Degree of specialization: - Economic security;
 
-<p><i> I am a Master's student of Artificial Intelligence and Interdisciplinary Research at the Moscow Institute of Physics and Technology. 
-I support Emerson information systems in the top fortune 500. 
-I like to explore new things.</i></p>
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 
@@ -26,17 +23,17 @@ I like to explore new things.</i></p>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
 <br>
-- Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate
-  - Skills:
-    - Hard skills:
-          * Data Preprocessing and Data Analysis;
-          * Machine Learning;
-          * Dashboard Design and Development;
-    - Soft skills:
-          * Learning;
-          * Communication skills;
-          * Team player;
-          * Management;
+* Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate
+* Skills:
+*-Hard skills: 
+  * Data Preprocessing and Data Analysis;
+  * Machine Learning;
+  * Dashboard Design and Development;
+*- Soft skills:
+  * Learning;
+  * Communication skills;
+  * Team player;
+  * Management;
 
 
 
