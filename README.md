@@ -15,10 +15,10 @@
 <br>
 
 ### ✨ About me in 30 seconds ✨ 
-* 🎓 Moscow Institute of Physics and Technology:
-- Master's degree:- Artificial Intelligence and Interdisciplinary Research **2022-2024**;
-* 🎓 South Ural State University:
-- Degree of specialization:  - Economic security **2015-2020**;
+* 🎓 Moscow Institute of Physics and Technology **2022-2024**:
+- Master's degree: - Artificial Intelligence and Interdisciplinary Research;
+* 🎓 South Ural State University  **2015-2020**:
+- Degree of specialization: - Economic security;
 
 <p><i> I am a Master's student of Artificial Intelligence and Interdisciplinary Research at the Moscow Institute of Physics and Technology. 
 I support Emerson information systems in the top fortune 500. 
