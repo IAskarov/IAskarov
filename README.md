@@ -14,19 +14,20 @@
 * 🎓 South Ural State University:
 - Degree of specialization: - Economic security;
 
+### ⚡️ Currently ⚡️
+- I am a student of the Moscow Institute of Physics and Technology;
+- I support Emerson information systems in the top fortune 500;
+- I study at the online school Skillfactory on Data Science;
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 
 <!--<img align="right" alt="PNG" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png" width="400" height="400" />-->
-
 <br>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
 <br>
 
 Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate, Data Preprocessing and Data Analysis, Machine Learning, Dashboard Design and Development, Soft skills, Learning, Communication skills, Team player, Management.
-
-
 
 
 ### 🙌🏻 Contact me
