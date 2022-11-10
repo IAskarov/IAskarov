@@ -37,4 +37,5 @@
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/ilnuraskarov)
 - [Kaggle]()
+- [LinkedIn](https://www.linkedin.com/in/ilnur-askarov/)
 - ilnuraskarovd@gmail.com
