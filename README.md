@@ -33,7 +33,7 @@ For two years, he supported the information systems of the Emerson company, whic
 <br>
 :collision: Hard Skill: Data Preprocessing and Data Analysis, Machine Learning, Dashboard Design and Development;
 <br>
-:collision: Soft skills, Learning, Communication skills, Team player, Management.
+:collision: Soft skills: Communication skills, Team player, Management.
 <br>
 
 ### 🙌🏻 Contact me
