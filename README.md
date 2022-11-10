@@ -7,6 +7,9 @@
 
 <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm <a href="https://www.linkedin.com/in/ilnur-askarov/" target="_blank"> Ilnur Askarov </a></h1>
 
+For two years, he supported the information systems of the Emerson company, which is included in the Fortune 500 list. Provided and supervised the execution of projects. He also created comprehensive reports based on Power BI, Query, Sharepoint, Python.
+
+<br>
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Moscow Institute of Physics and Technology:
 - Master's degree: - Phystech-School of Applied Mathematics and Computer Science (Artificial Intelligence and Interdisciplinary Research);
