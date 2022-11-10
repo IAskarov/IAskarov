@@ -17,3 +17,8 @@
 <p><i> I am a Master's student of Artificial Intelligence and Interdisciplinary Research at the Moscow Institute of Physics and Technology. 
 I support Emerson information systems in the top fortune 500. 
 I like to explore new things.</i></p>
+
+
+<h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
+<br>
+
