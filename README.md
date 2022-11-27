@@ -35,7 +35,8 @@
 :collision: Soft skills: Communication skills, Team player, Management.
 <br>
 
-### 🙌🏻 Contact me
+<h2 align="center"> Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h2>
+<p align="center">
 - [Kaggle]()
 - [LinkedIn](https://www.linkedin.com/in/ilnur-askarov/)
 - ilnuraskarovd@gmail.com
