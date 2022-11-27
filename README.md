@@ -37,8 +37,8 @@
   - Data Preprocessing and Data Analysis;
   - Machine Learning; 
   - Dashboard Design and Development;
-  - Mathematical statisticж
-  - Project analytics
+  - Mathematical statistic;
+  - Project analytics.
 
 :collision: Soft skills: 
   - Communication skills;
