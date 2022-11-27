@@ -35,6 +35,8 @@
 :collision: Soft skills: Communication skills, Team player, Management.
 <br>
 
+<br><br>
+
 <h2 align="center"> Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h2>
 <p align="center">
   
