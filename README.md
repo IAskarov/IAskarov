@@ -37,6 +37,7 @@
   - Data Preprocessing and Data Analysis;
   - Machine Learning; 
   - Dashboard Design and Development;
+
 :collision: Soft skills: 
   - Communication skills;
   - Team player;
