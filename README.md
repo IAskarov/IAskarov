@@ -11,10 +11,11 @@
 
 ### ✨ About me in 30 seconds ✨ 
 + 🎓 Moscow Institute of Physics and Technology:
-  + Master's degree: - Phystech-School of Applied Mathematics and Computer Science (Artificial Intelligence and Interdisciplinary Research)
+  + Master's degree: - Phystech-School of Applied Mathematics and Computer Science (Artificial Intelligence and Interdisciplinary Research).
 + 🎓 South Ural State University:
-  + Bachelor's degree: - Higher School of Economics and Management (Economic security)
-+ I have supported information systems Emerson is on the Fortune 500 list
+  + Bachelor's degree: - Higher School of Economics and Management (Economic security).
++ I have supported information systems Emerson is on the Fortune 500 list;
++ I am currently working on Data Science projects
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
 
