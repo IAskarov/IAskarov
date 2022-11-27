@@ -10,9 +10,9 @@
 <br>
 
 ### ✨ About me in 30 seconds ✨ 
-🎓 Moscow Institute of Physics and Technology:
++ 🎓 Moscow Institute of Physics and Technology:
 + Master's degree: - Phystech-School of Applied Mathematics and Computer Science (Artificial Intelligence and Interdisciplinary Research)
-🎓 South Ural State University:
++ 🎓 South Ural State University:
 + Bachelor's degree: - Higher School of Economics and Management (Economic security)
 + I have supported information systems Emerson is on the Fortune 500 list
 
@@ -26,7 +26,7 @@
 - I study at the online school Skillfactory on Data Science
 - Refining data wrangling and cleaning skills
 - Expanding my knowledge machine learning
-- 
+
 <br>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
