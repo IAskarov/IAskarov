@@ -31,16 +31,19 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technology Stack</h2>
 
-:collision: Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate;
+:collision: Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate.
 <br>
 :collision: Hard Skill:
   - Data Preprocessing and Data Analysis;
   - Machine Learning; 
   - Dashboard Design and Development;
+  - Mathematical statisticж
+  - Project analytics
 
 :collision: Soft skills: 
   - Communication skills;
   - Team player;
+  - Learning;
   - Management.
 <br>
 
