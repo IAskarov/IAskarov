@@ -46,7 +46,6 @@
   - Team player;
   - Learning;
   - Management.
-<br>
 
 <br><br>
 
