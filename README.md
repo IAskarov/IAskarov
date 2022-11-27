@@ -33,9 +33,15 @@
 
 :collision: Tools: SQL, Python, MS PowerBI, SharePoint, Power Automate;
 <br>
-:collision: Hard Skill: Data Preprocessing and Data Analysis, Machine Learning, Dashboard Design and Development;
+:collision: Hard Skill:
+  - Data Preprocessing and Data Analysis;
+  - Machine Learning; 
+  - Dashboard Design and Development;
 <br>
-:collision: Soft skills: Communication skills, Team player, Management.
+:collision: Soft skills: 
+  - Communication skills;
+  - Team player;
+  - Management.
 <br>
 
 <br><br>
