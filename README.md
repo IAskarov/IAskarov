@@ -51,7 +51,7 @@
 <h2 align="center"> Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h2>
 <p align="center">
   
-- [Kaggle]()
+- [Kaggle](https://www.kaggle.com/ilnuraskarov)
 - [LinkedIn](https://www.linkedin.com/in/ilnur-askarov/)
 - ilnuraskarovd@gmail.com
 <h2 align="center"> Github Statistic<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="45px"> </h2>
