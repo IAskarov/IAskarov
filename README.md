@@ -9,7 +9,7 @@
 <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm <a href="https://www.linkedin.com/in/ilnur-askarov/" target="_blank"> Ilnur Askarov </a></h1>
 
 <br>
-  
+   
 ### ✨ About me in 30 seconds ✨ 
 + 🎓 Moscow Institute of Physics and Technology:
   + Master's degree: - Phystech-School of Applied Mathematics and Computer Science (Artificial Intelligence and Interdisciplinary Research).
