@@ -11,7 +11,6 @@
 + 🎓 Moscow Institute of Physics and Technology:
   + Master's degree: - Phystech-School of Applied Mathematics and Computer Science (Artificial Intelligence and Interdisciplinary Research).
 + 🎓 South Ural State University:
-  + Bachelor's degree: - Higher School of Economics and Management (Economic security).
 + I have supported information systems Emerson is on the Fortune 500 list;
 + I am currently working on Data Science projects
 
